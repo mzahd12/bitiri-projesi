@@ -1,0 +1,33 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(189, 46, 46);
+    text-align: center;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(189, 46, 46);
+}
+h3 {
+    text-align: center;
+    color: rgb(189, 46, 46);
+}
+body {
+    background-color: greenyellow;
+}
+
+li {
+    text-align: center;
+    color: rgb(50, 104, 104);
+}
+ul { 
+    text-align: center;
+    list-style-position: inside;
+     }
+     body {
+        background-image: url(img/deprem.png);
+        background-size:cover;
+        
+        width: 100%;
+        height: 100%;
+      
+    }
